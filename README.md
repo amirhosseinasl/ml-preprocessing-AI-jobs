@@ -23,3 +23,4 @@ Students & job seekers in AI/Data fields
 Data science learners building real-world portfolio projects
 Educators & mentors preparing career-focused workshops
 Researchers studying hiring trends or labor economics
+https://github.com/lalitssonawane/ineuron-internship/commits?author=lalitssonawane
